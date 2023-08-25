@@ -2,7 +2,7 @@
 
 ## Project Description
 
-[Image](Assets/image.png)
+![Image](Assets/image.png)
 
 This lightweight C# application serves as a demonstration of how simple it is to interactively access a remote system's shell via named pipes using the SMB protocol. It includes an optional encryption layer leveraging AES GCM, utilizing a shared passphrase between both the server and the client. If you're interested in an example that employs both AES GCM and RSA for additional security, consider checking out another one of my projects, [SharpFtpC2](https://github.com/DarkCoderSc/SharpFtpC2). Implementing that security layer into this project would also be relatively straightforward.
 
